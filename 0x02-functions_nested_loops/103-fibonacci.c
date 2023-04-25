@@ -1,4 +1,11 @@
 #include <stdio.h>
+
+/**
+ * main - check the code.
+ *
+ * Return: Always 0.
+*/
+
 /*
 * main - finds and prints the sum of the even-valued terms
 * followed by a new line
