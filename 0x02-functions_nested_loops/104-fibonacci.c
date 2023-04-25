@@ -1,8 +1,15 @@
 #include <stdio.h>
+
+/**
+ * main - check the code.
+ *
+ * Return: Always 0.
+*/
+
 /*
 * main - fibonacci <3
-Purpose - no hardcode
-Return: (Success)
+*Purpose - no hardcode
+*Return: (Success)
 */
 
 int main(void)
