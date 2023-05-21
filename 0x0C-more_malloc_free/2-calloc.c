@@ -23,7 +23,7 @@ return (s);
 * @nmemb: number of elements in the array
 * @size: size of each element
 **
-Return: pointer to allocated memory
+*Return: pointer to allocated memory
 */
 
 void *_calloc(unsigned int nmemb, unsigned int size)
